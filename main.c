@@ -4,4 +4,5 @@ int main() {
 	int x;
 	x = 20;
 	printf("hello %d\n", x);
+	printf("adios\n");
 }
