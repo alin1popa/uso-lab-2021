@@ -2,6 +2,6 @@
 
 int main() {
 	int x;
-	x = 20;
+	scanf("%d", &x);
 	printf("hello %d\n", x);
 }
