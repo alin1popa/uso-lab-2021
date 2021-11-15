@@ -2,6 +2,6 @@
 
 int main() {
 	int x;
-	x = 20
+	x = 20;
 	printf("hello %d\n", x);
 }
